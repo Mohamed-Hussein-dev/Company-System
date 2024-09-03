@@ -11,8 +11,6 @@ A comprehensive system for managing company operations, including employee manag
 - [Setup](#setup)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -22,7 +20,6 @@ The Company System is designed to streamline the operations of a company by mana
 
 - Employee management: Add, update, and track employee data.
 - Project management: Track project progress and assign tasks.
-- Financial analysis: Monitor company finances and generate reports.
 - User roles: Admin and employee roles with different access levels.
 
 ## Technologies
@@ -91,19 +88,4 @@ Company-System/
 ├── Data/                    # Database context and migrations
 ├── Migrations/              # Entity Framework migrations
 └── appsettings.json         # Configuration settings
-```
-
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the project.
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the branch (`git push origin feature/AmazingFeature`).
-5. Open a pull request.
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 ```
