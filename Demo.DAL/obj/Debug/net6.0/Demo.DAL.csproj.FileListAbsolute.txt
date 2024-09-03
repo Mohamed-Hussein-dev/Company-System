@@ -1,0 +1,12 @@
+F:\Route Cours\MVC\Demo MVC Project\Demo MVC\Demo.DAL\bin\Debug\net6.0\Demo.DAL.deps.json
+F:\Route Cours\MVC\Demo MVC Project\Demo MVC\Demo.DAL\bin\Debug\net6.0\Demo.DAL.dll
+F:\Route Cours\MVC\Demo MVC Project\Demo MVC\Demo.DAL\bin\Debug\net6.0\Demo.DAL.pdb
+F:\Route Cours\MVC\Demo MVC Project\Demo MVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.AssemblyReference.cache
+F:\Route Cours\MVC\Demo MVC Project\Demo MVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Route Cours\MVC\Demo MVC Project\Demo MVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfoInputs.cache
+F:\Route Cours\MVC\Demo MVC Project\Demo MVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfo.cs
+F:\Route Cours\MVC\Demo MVC Project\Demo MVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.CoreCompileInputs.cache
+F:\Route Cours\MVC\Demo MVC Project\Demo MVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.dll
+F:\Route Cours\MVC\Demo MVC Project\Demo MVC\Demo.DAL\obj\Debug\net6.0\refint\Demo.DAL.dll
+F:\Route Cours\MVC\Demo MVC Project\Demo MVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.pdb
+F:\Route Cours\MVC\Demo MVC Project\Demo MVC\Demo.DAL\obj\Debug\net6.0\ref\Demo.DAL.dll

@@ -1,0 +1,15 @@
+F:\Route Cours\MVC\Demo MVC Project\Demo MVC\Demo.BLL\bin\Debug\net6.0\Demo.BLL.deps.json
+F:\Route Cours\MVC\Demo MVC Project\Demo MVC\Demo.BLL\bin\Debug\net6.0\Demo.BLL.dll
+F:\Route Cours\MVC\Demo MVC Project\Demo MVC\Demo.BLL\bin\Debug\net6.0\Demo.BLL.pdb
+F:\Route Cours\MVC\Demo MVC Project\Demo MVC\Demo.BLL\bin\Debug\net6.0\Demo.DAL.dll
+F:\Route Cours\MVC\Demo MVC Project\Demo MVC\Demo.BLL\bin\Debug\net6.0\Demo.DAL.pdb
+F:\Route Cours\MVC\Demo MVC Project\Demo MVC\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.AssemblyReference.cache
+F:\Route Cours\MVC\Demo MVC Project\Demo MVC\Demo.BLL\obj\Debug\net6.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Route Cours\MVC\Demo MVC Project\Demo MVC\Demo.BLL\obj\Debug\net6.0\Demo.BLL.AssemblyInfoInputs.cache
+F:\Route Cours\MVC\Demo MVC Project\Demo MVC\Demo.BLL\obj\Debug\net6.0\Demo.BLL.AssemblyInfo.cs
+F:\Route Cours\MVC\Demo MVC Project\Demo MVC\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.CoreCompileInputs.cache
+F:\Route Cours\MVC\Demo MVC Project\Demo MVC\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.Up2Date
+F:\Route Cours\MVC\Demo MVC Project\Demo MVC\Demo.BLL\obj\Debug\net6.0\Demo.BLL.dll
+F:\Route Cours\MVC\Demo MVC Project\Demo MVC\Demo.BLL\obj\Debug\net6.0\refint\Demo.BLL.dll
+F:\Route Cours\MVC\Demo MVC Project\Demo MVC\Demo.BLL\obj\Debug\net6.0\Demo.BLL.pdb
+F:\Route Cours\MVC\Demo MVC Project\Demo MVC\Demo.BLL\obj\Debug\net6.0\ref\Demo.BLL.dll
