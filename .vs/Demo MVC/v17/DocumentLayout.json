@@ -1,0 +1,537 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|f:\\route cours\\mvc\\demo mvc project\\demo mvc\\demo.pl\\views\\employee\\partialviews\\partialeditaddview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\employee\\partialviews\\partialeditaddview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|f:\\route cours\\mvc\\demo mvc project\\demo mvc\\demo.pl\\views\\employee\\partialviews\\partialdeletedetailsview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\employee\\partialviews\\partialdeletedetailsview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|f:\\route cours\\mvc\\demo mvc project\\demo mvc\\demo.pl\\views\\employee\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\employee\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|f:\\route cours\\mvc\\demo mvc project\\demo mvc\\demo.pl\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|f:\\route cours\\mvc\\demo mvc project\\demo mvc\\demo.pl\\views\\department\\partialviews\\partialeditcreateview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\department\\partialviews\\partialeditcreateview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|f:\\route cours\\mvc\\demo mvc project\\demo mvc\\demo.pl\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|f:\\route cours\\mvc\\demo mvc project\\demo mvc\\demo.pl\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|f:\\route cours\\mvc\\demo mvc project\\demo mvc\\demo.pl\\views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|f:\\route cours\\mvc\\demo mvc project\\demo mvc\\demo.pl\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|f:\\route cours\\mvc\\demo mvc project\\demo mvc\\demo.pl\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|f:\\route cours\\mvc\\demo mvc project\\demo mvc\\demo.pl\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|f:\\route cours\\mvc\\demo mvc project\\demo mvc\\demo.pl\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|f:\\route cours\\mvc\\demo mvc project\\demo mvc\\demo.pl\\views\\shared\\_buttonpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\shared\\_buttonpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|f:\\route cours\\mvc\\demo mvc project\\demo mvc\\demo.pl\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|f:\\route cours\\mvc\\demo mvc project\\demo mvc\\demo.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|f:\\route cours\\mvc\\demo mvc project\\demo mvc\\demo.pl\\mappingprofiles\\employeeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\mappingprofiles\\employeeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|f:\\route cours\\mvc\\demo mvc project\\demo mvc\\demo.pl\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|f:\\route cours\\mvc\\demo mvc project\\demo mvc\\demo.pl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|f:\\route cours\\mvc\\demo mvc project\\demo mvc\\demo.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|f:\\route cours\\mvc\\demo mvc project\\demo mvc\\demo.pl\\viewmodels\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\viewmodels\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA662C7-096F-4F00-8A18-B9254032C52C}|Demo.BLL\\Demo.BLL.csproj|f:\\route cours\\mvc\\demo mvc project\\demo mvc\\demo.bll\\repositories\\genaricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA662C7-096F-4F00-8A18-B9254032C52C}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\repositories\\genaricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA662C7-096F-4F00-8A18-B9254032C52C}|Demo.BLL\\Demo.BLL.csproj|f:\\route cours\\mvc\\demo mvc project\\demo mvc\\demo.bll\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA662C7-096F-4F00-8A18-B9254032C52C}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA662C7-096F-4F00-8A18-B9254032C52C}|Demo.BLL\\Demo.BLL.csproj|f:\\route cours\\mvc\\demo mvc project\\demo mvc\\demo.bll\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA662C7-096F-4F00-8A18-B9254032C52C}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA662C7-096F-4F00-8A18-B9254032C52C}|Demo.BLL\\Demo.BLL.csproj|f:\\route cours\\mvc\\demo mvc project\\demo mvc\\demo.bll\\interfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA662C7-096F-4F00-8A18-B9254032C52C}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\interfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA662C7-096F-4F00-8A18-B9254032C52C}|Demo.BLL\\Demo.BLL.csproj|f:\\route cours\\mvc\\demo mvc project\\demo mvc\\demo.bll\\interfaces\\igenaricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA662C7-096F-4F00-8A18-B9254032C52C}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\interfaces\\igenaricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|f:\\route cours\\mvc\\demo mvc project\\demo mvc\\demo.pl\\views\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|f:\\route cours\\mvc\\demo mvc project\\demo mvc\\demo.pl\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|f:\\route cours\\mvc\\demo mvc project\\demo mvc\\demo.pl\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|f:\\route cours\\mvc\\demo mvc project\\demo mvc\\demo.pl\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|f:\\route cours\\mvc\\demo mvc project\\demo mvc\\demo.pl\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|f:\\route cours\\mvc\\demo mvc project\\demo mvc\\demo.pl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|f:\\route cours\\mvc\\demo mvc project\\demo mvc\\demo.pl\\viewmodels\\applicationuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2187DEB-E166-48E6-B900-1CAE26BAF005}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\viewmodels\\applicationuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PartialEditCreateView.cshtml",
+              "DocumentMoniker": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Views\\Department\\PartialViews\\PartialEditCreateView.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Department\\PartialViews\\PartialEditCreateView.cshtml",
+              "ToolTip": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Views\\Department\\PartialViews\\PartialEditCreateView.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Department\\PartialViews\\PartialEditCreateView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T21:35:08.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Views\\Department\\Create.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Department\\Create.cshtml",
+              "ToolTip": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Views\\Department\\Create.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Department\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T18:22:43.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T14:49:42.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Views\\Employee\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Employee\\Delete.cshtml",
+              "ToolTip": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Views\\Employee\\Delete.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Employee\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T14:49:18.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PartialDeleteDetailsView.cshtml",
+              "DocumentMoniker": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Views\\Employee\\PartialViews\\PartialDeleteDetailsView.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Employee\\PartialViews\\PartialDeleteDetailsView.cshtml",
+              "ToolTip": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Views\\Employee\\PartialViews\\PartialDeleteDetailsView.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Employee\\PartialViews\\PartialDeleteDetailsView.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T14:33:43.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Controllers\\DepartmentController.cs",
+              "ToolTip": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Demo.PL\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T10:59:11.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Views\\Employee\\Add.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Employee\\Add.cshtml",
+              "ToolTip": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Views\\Employee\\Add.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Employee\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T20:27:41.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PartialEditAddView.cshtml",
+              "DocumentMoniker": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Views\\Employee\\PartialViews\\PartialEditAddView.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Employee\\PartialViews\\PartialEditAddView.cshtml",
+              "ToolTip": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Views\\Employee\\PartialViews\\PartialEditAddView.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Employee\\PartialViews\\PartialEditAddView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T20:32:05.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Views\\Employee\\Details.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Employee\\Details.cshtml",
+              "ToolTip": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Views\\Employee\\Details.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Employee\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T18:22:29.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T18:22:31.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Views\\Department\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Department\\Edit.cshtml",
+              "ToolTip": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Views\\Department\\Edit.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Department\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T18:22:49.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Views\\Department\\Details.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Department\\Details.cshtml",
+              "ToolTip": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Views\\Department\\Details.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Department\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T18:22:47.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Program.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Program.cs",
+              "ToolTip": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Program.cs",
+              "RelativeToolTip": "Demo.PL\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T10:54:30.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Controllers\\EmployeeController.cs",
+              "ToolTip": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Demo.PL\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAmwGAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T10:59:19.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T20:45:33.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeeProfile.cs",
+              "DocumentMoniker": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\MappingProfiles\\EmployeeProfile.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\MappingProfiles\\EmployeeProfile.cs",
+              "ToolTip": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\MappingProfiles\\EmployeeProfile.cs",
+              "RelativeToolTip": "Demo.PL\\MappingProfiles\\EmployeeProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T15:07:25.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ButtonPartialView.cshtml",
+              "DocumentMoniker": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Views\\Shared\\_ButtonPartialView.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Shared\\_ButtonPartialView.cshtml",
+              "ToolTip": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Views\\Shared\\_ButtonPartialView.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Shared\\_ButtonPartialView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T14:49:22.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Department\\Index.cshtml",
+              "ToolTip": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Department\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T14:49:53.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmployeeViewModel.cs",
+              "DocumentMoniker": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\ViewModels\\EmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\ViewModels\\EmployeeViewModel.cs",
+              "ToolTip": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\ViewModels\\EmployeeViewModel.cs",
+              "RelativeToolTip": "Demo.PL\\ViewModels\\EmployeeViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T14:34:07.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.BLL\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.BLL\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Demo.BLL\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T21:35:47.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IGenaricRepository.cs",
+              "DocumentMoniker": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.BLL\\Interfaces\\IGenaricRepository.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\Interfaces\\IGenaricRepository.cs",
+              "ToolTip": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.BLL\\Interfaces\\IGenaricRepository.cs",
+              "RelativeToolTip": "Demo.BLL\\Interfaces\\IGenaricRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T21:29:30.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T20:20:30.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GenaricRepository.cs",
+              "DocumentMoniker": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.BLL\\Repositories\\GenaricRepository.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\Repositories\\GenaricRepository.cs",
+              "ToolTip": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.BLL\\Repositories\\GenaricRepository.cs",
+              "RelativeToolTip": "Demo.BLL\\Repositories\\GenaricRepository.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwCsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T21:35:52.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.BLL\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.BLL\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Demo.BLL\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:59:20.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LogInViewModel.cs",
+              "DocumentMoniker": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\ViewModels\\LogInViewModel.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\ViewModels\\LogInViewModel.cs",
+              "ToolTip": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\ViewModels\\LogInViewModel.cs",
+              "RelativeToolTip": "Demo.PL\\ViewModels\\LogInViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T10:32:52.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LogIn.cshtml",
+              "DocumentMoniker": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Views\\Account\\LogIn.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Account\\LogIn.cshtml",
+              "ToolTip": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Views\\Account\\LogIn.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Account\\LogIn.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T10:20:00.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IDepartmentRepository.cs",
+              "DocumentMoniker": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.BLL\\Interfaces\\IDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\Interfaces\\IDepartmentRepository.cs",
+              "ToolTip": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.BLL\\Interfaces\\IDepartmentRepository.cs",
+              "RelativeToolTip": "Demo.BLL\\Interfaces\\IDepartmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T21:29:28.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Account\\Register.cshtml",
+              "ToolTip": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T20:17:06.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Controllers\\AccountController.cs",
+              "ToolTip": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Demo.PL\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAcwE8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T20:21:44.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_AuthLayout.cshtml",
+              "DocumentMoniker": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Views\\Shared\\_AuthLayout.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Shared\\_AuthLayout.cshtml",
+              "ToolTip": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Views\\Shared\\_AuthLayout.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Shared\\_AuthLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T20:20:57.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Demo.PL\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T10:59:24.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ApplicationUserViewModel.cs",
+              "DocumentMoniker": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\ViewModels\\ApplicationUserViewModel.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\ViewModels\\ApplicationUserViewModel.cs",
+              "ToolTip": "F:\\Route Cours\\MVC\\Demo MVC Project\\Demo MVC\\Demo.PL\\ViewModels\\ApplicationUserViewModel.cs",
+              "RelativeToolTip": "Demo.PL\\ViewModels\\ApplicationUserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T20:26:24.288Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
